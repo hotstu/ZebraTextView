@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/hotstu/sasuke.svg)](https://jitpack.io/#hotstu/ZebraTextView)
+[![](https://jitpack.io/v/hotstu/ZebraTextView.svg)](https://jitpack.io/#hotstu/ZebraTextView)
 
 # ZebraTextView
 Zebra Striped textView/十行代码实现斑马条纹分行
