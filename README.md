@@ -39,7 +39,7 @@ or
 ```java
         ZebraTextView zebraText = findViewById(R.id.text);
         zebraText.setEvenLineColor(Color.WHITE);
-        zebraText.setEvenLineColor(Color.BLUE);
+        zebraText.setOddLineColor(Color.BLUE);
 ```
 
 <br/>
